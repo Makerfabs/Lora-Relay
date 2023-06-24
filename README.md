@@ -20,7 +20,7 @@ Lora Relay based on the Arduino, users can program it with Arduino IDE, which is
 
 - You can get one from: [Lora-Relay](https://www.makerfabs.com/lora-relay-30a.html)
 
-- Hardware and detailed instructions please visit Wiki page:  [Lora-Relay Wiki](https://www.makerfabs.com/wiki/index.php?title=Lora_Relay)
+- Hardware and detailed instructions please visit Wiki page:  [Lora-Relay Wiki](https://wiki.makerfabs.com/Lora_Relay.html)
 
 # Related Projects
 
